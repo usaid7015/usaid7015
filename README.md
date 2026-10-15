@@ -8,8 +8,8 @@
 
 I build scalable, high-quality digital products that combine clean development, strong performance, and practical business solutions.
 
-[![Email](https://img.shields.io/badge/Email-usaidmuhammad183%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usaidmuhammad183@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-usaid7015-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usaid7015)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usaidmuhammad183@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usaid7015)
 
 </div>
 
@@ -135,8 +135,8 @@ I'm always interested in solving challenging development problems and building u
 
 ### 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-usaidmuhammad183%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usaidmuhammad183@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-usaid7015-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usaid7015)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usaidmuhammad183@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usaid7015)
 
 **Open to development projects, technical collaborations, and interesting product ideas.**
 
